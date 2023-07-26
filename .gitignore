@@ -8,3 +8,5 @@
 *.tfstate.*
 .terraform.lock.hcl
 .terraform
+
+/Vars/rds1.tfvars
