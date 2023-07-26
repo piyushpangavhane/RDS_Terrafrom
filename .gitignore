@@ -1,0 +1,10 @@
+../Modules/RDS/.terraform
+../Modules/RDS/.terraform.lock.hcl
+../Env/Dev/.terraform
+
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+.terraform
